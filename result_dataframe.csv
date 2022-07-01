@@ -1,0 +1,26 @@
+Model,Data,f1,accuracy,precision,recall
+Random Forest Optimized,Base_reduced_features,0.8867,98.44,94.78,83.77
+Random Forest,Base_reduced_features,0.8477,98.01,95.16,77.65
+Decision Tree,Base_reduced_features,0.834,97.43,82.66,84.24
+Decision Tree,Base,0.831,97.35,81.68,84.67
+Random Forest,Balanced_smote_reduced_feauters,0.8214,97.2,82.42,82.86
+Random Forest,Base,0.8194,97.74,95.2,73.79
+Random Forest,Balanced_smote,0.8045,97.21,84.84,77.43
+Random Forest,Balanced_reduced_feauters,0.7678,95.75,72.05,84.47
+Random Forest,Balanced,0.758,95.78,72.42,81.24
+Decision Tree,Balanced_smote_reduced_feauters,0.7273,94.8,66.86,81.9
+Decision Tree,Balanced_smote,0.6823,93.77,62.85,77.12
+Decision Tree,Balanced_reduced_feauters,0.6394,91.41,56.73,80.6
+Decision Tree,Balanced,0.5946,89.48,52.75,77.67
+KNeighbors,Base_reduced_features,0.5654,94.92,67.8,51.09
+KNeighbors,Base,0.5622,94.9,67.29,50.84
+KNeighbors,Balanced_smote,0.5528,86.58,49.27,77.27
+KNeighbors,Balanced_smote_reduced_feauters,0.5338,85.33,47.8,76.35
+Gradien boosting,Balanced_smote,0.4991,83.08,45.49,71.54
+Gradien boosting,Base,0.4831,95.25,79.21,43.07
+Gradien boosting,Balanced_smote_reduced_feauters,0.4779,79.51,44.29,73.36
+Gradien boosting,Balanced,0.4743,79.35,44.02,73.12
+KNeighbors,Balanced_reduced_feauters,0.4726,78.81,43.89,75.76
+Gradien boosting,Base_reduced_features,0.4699,95.14,79.82,42.12
+KNeighbors,Balanced,0.4694,78.27,43.77,75.32
+Gradien boosting,Balanced_reduced_feauters,0.4534,76.04,42.96,73.92
